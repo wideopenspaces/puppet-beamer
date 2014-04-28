@@ -5,7 +5,7 @@ require 'spec_helper'
 describe 'beamer' do
   it 'contains the Beamer package' do
     should contain_package('Beamer').with({
-        'provider'  => 'appdmg',
+        'provider'  => 'appdmg_eula',
         'source'    => 'http://tupil-beamer.s3.amazonaws.com/Beamer.dmg'
       })
   end
