@@ -1,4 +1,6 @@
-# This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+class beamer {
+  package { 'Beamer':
+    provider => 'appdmg',
+    source   => 'http://tupil-beamer.s3.amazonaws.com/Beamer.dmg'
+  }
 }
