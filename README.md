@@ -6,8 +6,8 @@ paragraph with a short explanation of what the heck makes your module
 useful.
 
 A great module has a working travis build
-
-[![Build Status](https://travis-ci.org/boxen/puppet-template.png?branch=master)](https://travis-ci.org/boxen/puppet-template)
+https://travis-ci.org/wideopenspaces/puppet-beamer
+[![Build Status](https://travis-ci.org/wideopenspaces/puppet-beamer.png?branch=master)](https://travis-ci.org/boxen/puppet-template)
 
 ## Usage
 
