@@ -1,11 +1,8 @@
 
 # Beamer Puppet Module for Boxen
 
-An example of how we write Puppet modules for Boxen. Replace this
-paragraph with a short explanation of what the heck makes your module
-useful.
+Installs [Beamer App](http://beamer-app.com) for movie streaming from a Mac to Apple TV.
 
-A great module has a working travis build
 [![Build Status](https://travis-ci.org/wideopenspaces/puppet-beamer.png?branch=master)](https://travis-ci.org/wideopenspaces/puppet-beamer)
 
 ## Usage
